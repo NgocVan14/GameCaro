@@ -169,6 +169,8 @@
         private System.Windows.Forms.ProgressBar prcbCoolDown;
         private System.Windows.Forms.TextBox txbIP;
         private System.Windows.Forms.TextBox txbPlayerName;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Timer tmCoolDown;
     }
 }
 
