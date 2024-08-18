@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace GameCaro
 {
-    public class ChessBoardManager
+    public class ChessBoardManage
     {
 
         #region Properties
