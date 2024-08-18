@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GameCaro
+namespace GameCar
 {
     public class Player
     {

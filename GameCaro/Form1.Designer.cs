@@ -1,4 +1,4 @@
-namespace GameCaro
+namespace GameCar
 {
     partial class Form1
     {
